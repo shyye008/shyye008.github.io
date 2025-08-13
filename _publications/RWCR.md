@@ -1,7 +1,7 @@
 ---
 title: "Variable selection in modeling clustered data via within-cluster resampling"
 collection: publications
-category: manuscript
+category: manuscripts
 date: 2024-08-01
 venue: 'The Canadian Journal of Statistics'
 paperurl: 'https://onlinelibrary.wiley.com/doi/10.1002/cjs.11824'
