@@ -1,13 +1,10 @@
 ---
-title: "Paper Title Number 5, with math $$E=mc^2$$"
+title: "Marginalized zero-one inflated Beta regression models for analyzing Interrupted time series analysis with proportional outcomes"
 collection: publications
-category: conferences
-permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about a famous math equation, $$E=mc^2$$'
-date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+category: manuscript
+date: 2025-08-13
+venue: 'In revision for JAS'
+paperurl: 'https://arxiv.org/abs/2212.09996'
+citation: 'Ye, S., Cruz, M. Wang, Z., Yu, Y. (2025). &quot;Marginalized zero-one inflated Beta regression models for analyzing Interrupted time series analysis with proportional outcomes.&quot; <i>In revision for Journal of Applied Statistics</i>.'
 ---
 
-Using [MathJax](https://www.mathjax.org/) in the description is supported - $$E=mc^2$$ - however, the use must be mindful that the default delimiters are `$$...$$` and `\\[...\\]` which differs from the `$...$` that is typically expected.
