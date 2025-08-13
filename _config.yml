@@ -84,8 +84,11 @@ publication_category:
     title: 'Books'
   manuscripts:
     title: 'Statistical Theory and Methods'
+  manuscripts2:
     title: 'Statistical Application'
+  manuscripts3:
     title: 'Collaboration and Scientific Research'
+  manuscripts4:  
     title: 'Review'
   conferences:
     title: 'Conference Papers'
