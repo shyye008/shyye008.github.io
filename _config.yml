@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Shangyuan Ye"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -23,8 +23,8 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "Photo-min.png"
-  name             : "Shangyuan Ye"
-  pronouns         : "he/him"  
+  name             : "Shangyuan Ye, Ph.D."
+  pronouns         : # "he/him"  
   bio              : "Assistant Professor of Statistics"
   location         : "Miami"
   employer         : "Florida International University"
