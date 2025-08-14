@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Biograph"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,36 +11,25 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Statistics, Oklahoma State University, 2018
+  *Advisor: Dr. Ye Liang
+   
+* B.S. in Mathematics, University of Texas at Dallas, 2014
 
-Work experience
+Research experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Assistant Professor of Statistics (8/2025-present), Department of Mathematics and Statistics, Florida International University 
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Assistant Staff Scientist (7/2022-8/2025), Biostatistics Shared Resource, Knight Cancer Institute, Oregon Health and Science University
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Senior Biostatistician (6/2021-7/2022), Biostatistics Shared Resource, Knight Cancer Institute, Oregon Health and Science University
+
+* Research Fellow (10/2019-5/2021), Department of Population Medicine, Harvard Pilgrim Health Care Institute and Harvard Medical School
+  * Advisor: Dr. Rui Wang
+
+* Post-doctoral Associate (6/2018-10/2019), Department of Population and Quantitative Health Sciences, University of Massachusetts Medical School
+  * Advisor: Dr. Bo Zhang
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
@@ -59,6 +48,6 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+#Service and leadership
+#======
+#* Currently signed in to 43 different slack teams
