@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * Ph.D in Statistics, Oklahoma State University, 2018
-  *Advisor: Dr. Ye Liang
+  * Advisor: Dr. Ye Liang
    
 * B.S. in Mathematics, University of Texas at Dallas, 2014
 
@@ -48,6 +48,6 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-#Service and leadership
-#======
-#* Currently signed in to 43 different slack teams
+%Service and leadership
+%======
+%* Currently signed in to 43 different slack teams
