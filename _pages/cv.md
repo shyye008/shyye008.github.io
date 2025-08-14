@@ -30,7 +30,7 @@ Research experience
 * Post-doctoral Associate (6/2018-10/2019), Department of Population and Quantitative Health Sciences, University of Massachusetts Medical School
   * Advisor: Dr. Bo Zhang
   
-Publications
+Selected Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
